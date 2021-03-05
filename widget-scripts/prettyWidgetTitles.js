@@ -1,4 +1,9 @@
 /*
+
+TESTED ON: Sisense 8.2.5.10151 (Windows)
+
+ABOUT:
+
 Sisense uses a JavaScript library called Highcharts to create their chart widgets; full documentation is here - https://api.highcharts.com/highcharts/.  
 
 Highcharts gives you the ability to add and style widget titles.  

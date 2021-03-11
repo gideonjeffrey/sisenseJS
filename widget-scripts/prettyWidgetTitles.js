@@ -12,7 +12,7 @@ I've used this to create nice-looking centered titles into widgets using scripts
 This is just one way you can style widget titles - read the Highcharts documentation to find much, much more!
 */
 
-var widgetTitle = ""; //insert a title for the widget between the double quotes
+var widgetTitle = "MY_TITLE"; //insert a title for the widget between the double quotes
 var titleMargin = 15; //title margin in pixels; change to any value desired
 var titleStyle = {
   "color": "#5B6372"
